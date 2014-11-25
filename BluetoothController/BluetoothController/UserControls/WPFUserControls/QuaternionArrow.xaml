@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="BluetoothController.WPFUserControls.QuaternionArrow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:helix ="http://helixtoolkit.codeplex.com"
+             xmlns:btwpf ="clr-namespace:BluetoothController.WPFUserControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <DockPanel x:Name="MyViewPort">
+        <StatusBar DockPanel.Dock="Bottom">
+            <TextBox x:Name="Kinect">kinect</TextBox>
+        </StatusBar>
+        <helix:HelixViewport3D Camera="{helix:PerspectiveCamera 0,-1,10}" RenderOptions.EdgeMode="Aliased" ShowCoordinateSystem="True" ShowViewCube="False">
+            
+            <!--<helix:DefaultLights/>
+            <helix:ArrowVisual3D Visible="True" x:Name="Arrow" Transform="{helix:Translate 0,0,0}" Diameter=".2" Fill="AliceBlue" Direction="0,0,5"/>
+            <helix:CombinedManipulator TargetTransform="{Binding Transform, ElementName=Arrow}"/>-->
+            <ModelVisual3D>
+                <ModelVisual3D.Content>
+                    <AmbientLight Color="White" />
+                </ModelVisual3D.Content>
+            </ModelVisual3D>
+            <!--<helix:ArrowVisual3D Diameter=".5" Direction="7,7,7" Fill="Gold" x:Name="Arrow"/>
+            <helix:CoordinateSystemVisual3D x:Name="Cord" ArrowLengths="5" YAxisColor="Gray" XAxisColor="Red" ZAxisColor="Green"/>-->
+            <btwpf:KinectCoordinateSystemVisual3D ArrowLengths="3" x:Name="Cord" />
+        </helix:HelixViewport3D>
+    </DockPanel>
+</UserControl>

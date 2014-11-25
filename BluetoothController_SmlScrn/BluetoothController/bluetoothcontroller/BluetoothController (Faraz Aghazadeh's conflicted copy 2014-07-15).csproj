@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CEB6FBF-9369-4FCF-A4F7-08A10AD81EFE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BluetoothController</RootNamespace>
+    <AssemblyName>BluetoothController</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="InTheHand.Net.Personal">
+      <HintPath>..\packages\32feet.NET.3.5.0.0\lib\net\InTheHand.Net.Personal.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect">
+      <HintPath>$(KINECTSDK20_DIR)\Assemblies\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Windows" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bluetooth\BluetoothHelper.cs" />
+    <Compile Include="Important\AccelerationTime.cs" />
+    <Compile Include="Important\Calibration.cs" />
+    <Compile Include="Important\CorrectedSensor.cs" />
+    <Compile Include="Important\Derivative.cs" />
+    <Compile Include="Important\IdealSensor.cs" />
+    <Compile Include="Important\MathFunctions.cs" />
+    <Compile Include="Important\Merge.cs" />
+    <Compile Include="Important\SmootherFilter.cs" />
+    <Compile Include="Kinect\SensorLocation.cs" />
+    <Compile Include="Utility\FileLogger.cs" />
+    <Compile Include="Utility\IData.cs" />
+    <Compile Include="Utility\ILogger.cs" />
+    <Compile Include="SkeletonBodyViewer.xaml.cs">
+      <DependentUpon>SkeletonBodyViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\ExtensionMethods.cs" />
+    <Compile Include="Kinect\JointsOfInterestData.cs" />
+    <Compile Include="Utility\SensorType.cs" />
+    <Compile Include="Utility\UISensorData.cs" />
+    <Compile Include="Kinect\VirtualSensor.cs" />
+    <Compile Include="Kinect\VirtualSensorData.cs" />
+    <Compile Include="_Deprecated\IReader.cs" />
+    <Compile Include="Kinect\JointReader.cs" />
+    <Compile Include="Utility\CircularBuffer.cs" />
+    <Compile Include="_Deprecated\DoubleDerivative.cs" />
+    <Compile Include="Utility\IDataReciever.cs" />
+    <Compile Include="_Deprecated\MathFunctions.cs" />
+    <Compile Include="Bluetooth\MotionSensorData.cs" />
+    <Compile Include="Bluetooth\MotionController.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="SkeletonBodyViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Math\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

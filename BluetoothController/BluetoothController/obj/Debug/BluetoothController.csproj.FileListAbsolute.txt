@@ -1,0 +1,197 @@
+c:\users\john\documents\visual studio 2013\Projects\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csprojResolveAssemblyReference.cache
+c:\users\john\documents\visual studio 2013\Projects\BluetoothController\BluetoothController\bin\Debug\BluetoothController.dll
+c:\users\john\documents\visual studio 2013\Projects\BluetoothController\BluetoothController\bin\Debug\BluetoothController.pdb
+c:\users\john\documents\visual studio 2013\Projects\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+c:\users\john\documents\visual studio 2013\Projects\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.xml
+c:\users\john\documents\visual studio 2013\Projects\BluetoothController\BluetoothController\obj\Debug\BluetoothController.dll
+c:\users\john\documents\visual studio 2013\Projects\BluetoothController\BluetoothController\obj\Debug\BluetoothController.pdb
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\BluetoothController.dll
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\BluetoothController.pdb
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\SkeletonBodyViewer.baml
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\SkeletonBodyViewer.g.cs
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControlTester.g.cs
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.cache
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.lref
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControlTester.baml
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.g.resources
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.dll
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\BluetoothController.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\BluetoothController.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.lref
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.g.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.UserControls.WinFromUserContorls.CalibratorControl.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.SensorGrapherControl.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csproj.GenerateResource.Cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\BluetoothController.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\BluetoothController.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.xml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.xml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.lref
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.g.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.UserControls.WinFromUserContorls.CalibratorControl.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.SensorGrapherControl.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\obj\Debug\BluetoothController.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\BluetoothController.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\BluetoothController.pdb
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.xml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.xml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csprojResolveAssemblyReference.cache
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.cache
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.lref
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController.g.resources
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController.UserControls.WinFromUserContorls.CalibratorControl.resources
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController.SensorGrapherControl.resources
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csproj.GenerateResource.Cache
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\BluetoothController\obj\Debug\BluetoothController.pdb
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\BluetoothController.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\BluetoothController.pdb
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.xml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.xml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csprojResolveAssemblyReference.cache
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.cache
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.lref
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.g.resources
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.UserControls.WinFromUserContorls.CalibratorControl.resources
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.SensorGrapherControl.resources
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csproj.GenerateResource.Cache
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\BluetoothController.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\BluetoothController.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\MathNet.Numerics.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Kinect.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csprojResolveAssemblyReference.cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonBodyViewer.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\SkeletonQuatBodyViewer.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\window1.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController_MarkupCompile.lref
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\IMUQuatViewer.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\UserControls\WPFUserControls\QuaternionArrow.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.g.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.UserControls.WinFromUserContorls.CalibratorControl.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.SensorGrapherControl.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.csproj.GenerateResource.Cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\BluetoothController\obj\Debug\BluetoothController.pdb

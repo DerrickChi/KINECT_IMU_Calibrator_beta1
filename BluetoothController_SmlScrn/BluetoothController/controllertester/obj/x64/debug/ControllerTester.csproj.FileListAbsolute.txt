@@ -1,0 +1,115 @@
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\bin\x64\Debug\ControllerTester.exe.config
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController\bin\ControllerTester.exe.config
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\bin\Debug\ControllerTester.exe.config
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.pdb
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\BluetoothController.dll
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\BluetoothController.pdb
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Form1.resources
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Properties.Resources.resources
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csproj.GenerateResource.Cache
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\Johnny\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\Mitchell\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\Mitchell\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\Mitchell\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\BluetoothController.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\BluetoothController.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\Window1.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\Window1.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester_MarkupCompile.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.g.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Form1.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Properties.Resources.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.UserControl1.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csproj.GenerateResource.Cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\ControllerTester.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\BluetoothController.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\BluetoothController.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\Window1.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\Window1.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester_MarkupCompile.cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.g.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Form1.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Properties.Resources.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.UserControl1.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\New Copy Of Program\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\New Copy Of Program\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\New Copy Of Program\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\guineapig\Dropbox\2014 Summer Intern Shared Folder\New Copy Of Program\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\guineapig\Dropbox\2014 Summer Intern Shared Folder\New Copy Of Program\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\guineapig\Dropbox\2014 Summer Intern Shared Folder\New Copy Of Program\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\John\Desktop\BluetoothController\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\John\Desktop\BluetoothController\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\John\Desktop\BluetoothController\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\John\Desktop\Small Screen\BluetoothController\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\John\Desktop\Small Screen\BluetoothController\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\John\Desktop\Small Screen\BluetoothController\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe.config
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\ControllerTester.exe
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\ControllerTester.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\BluetoothController.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\BluetoothController.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csprojResolveAssemblyReference.cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\Window1.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\Window1.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester_MarkupCompile.cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.g.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Form1.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.Properties.Resources.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.UserControl1.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.csproj.GenerateResource.Cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.exe
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController_SmlScrn\BluetoothController\ControllerTester\obj\x64\Debug\ControllerTester.pdb

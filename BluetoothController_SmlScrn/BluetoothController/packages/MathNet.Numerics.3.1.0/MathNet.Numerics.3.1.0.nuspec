@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MathNet.Numerics</id>
+    <version>3.1.0</version>
+    <title>Math.NET Numerics</title>
+    <authors>Christoph Ruegg,  Marcus Cuda,  Jurgen Van Gael</authors>
+    <owners>Christoph Ruegg,  Marcus Cuda,  Jurgen Van Gael</owners>
+    <licenseUrl>http://numerics.mathdotnet.com/docs/License.html</licenseUrl>
+    <projectUrl>http://numerics.mathdotnet.com/</projectUrl>
+    <iconUrl>http://www.mathdotnet.com/images/MathNet128.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Math.NET Numerics is the numerical foundation of the Math.NET project, aiming to provide methods and algorithms for numerical computations in science, engineering and every day use. Supports .Net 4.0, .Net 3.5 and Mono on Windows, Linux and Mac; Silverlight 5, WindowsPhone/SL 8, WindowsPhone 8.1 and Windows 8 with PCL Portable Profiles 47 and 344; Android/iOS with Xamarin.</description>
+    <summary>Math.NET Numerics, providing methods and algorithms for numerical computations in science, engineering and every day use.</summary>
+    <releaseNotes>Random: generate a sequence of integers within a range in one go
+Distributions: all distributions must have static routines to sample an array in one go
+Linear Algebra: fix Matrix.StrictlyLowerTriangle
+Linear Algebra: fix vector DoOuterProduct ~mjmckp
+Linear Algebra: enumerators accept Zeros-parameter (like map/fold already does)
+Linear Algebra: Vector.MapConvert (consistency)
+Linear Algebra: proper term for "conjugate symmetric" is "Hermitian""
+Interpolation: new Step, LogLinear and transformed interpolators ~Candy Chiu
+Interpolation: check for min required number of data points, throw ArgumentException if not.
+Root Finding: F# FindRoots.broyden module function ~teramonagi
+Misc docs fixes</releaseNotes>
+    <tags>math numeric statistics probability integration interpolation regression solve fit linear algebra matrix fft</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System.Numerics" targetFramework=".NETFramework4.0, .NETFramework4.5, .NETCore4.5, Silverlight5.0, MonoAndroid1.0, MonoTouch1.0" />
+    </frameworkAssemblies>
+  </metadata>
+</package>

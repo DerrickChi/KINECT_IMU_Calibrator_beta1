@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CEB6FBF-9369-4FCF-A4F7-08A10AD81EFE}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BluetoothController</RootNamespace>
+    <AssemblyName>BluetoothController</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\BluetoothController.XML</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="InTheHand.Net.Personal, Version=3.5.605.0, Culture=neutral, PublicKeyToken=ea38caa273134499, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\32feet.NET.3.5.0.0\lib\net\InTheHand.Net.Personal.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Kinect, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Assembly\Microsoft.Kinect.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Windows.Forms.DataVisualization.Design" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Windows" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ChartItems.cs" />
+    <Compile Include="Filters\Coefficients.cs" />
+    <Compile Include="Filters\DoubleExponentialDeriver.cs" />
+    <Compile Include="Filters\DoubleExponentialFirst.cs" />
+    <Compile Include="Filters\IFilter.cs" />
+    <Compile Include="Filters\OurSavitzkyGolayFilter.cs" />
+    <Compile Include="Filters\FiniteDifferenceFilter.cs" />
+    <Compile Include="Import\IMatrix.cs" />
+    <Compile Include="Import\IVector.cs" />
+    <Compile Include="Import\JaggedArrayMath.cs" />
+    <Compile Include="Import\MapackMatrix.cs" />
+    <Compile Include="Filters\SavitzkyGolay.cs" />
+    <Compile Include="Import\VectorMath.cs" />
+    <Compile Include="Math\Quaternion.cs" />
+    <Compile Include="ProducerData\IRestartable.cs" />
+    <Compile Include="UserControls\WinFromUserContorls\SensorGrapher.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\WinFromUserContorls\SensorGrapher.Designer.cs">
+      <DependentUpon>SensorGrapher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\WPFUserControls\IMUQuatViewer.xaml.cs">
+      <DependentUpon>IMUQuatViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\WPFUserControls\KinectCoordinateSystemVisual3D.cs" />
+    <Compile Include="Utility\DataProducerManager.cs" />
+    <Compile Include="Utility\DataProducerManagerCollection.cs" />
+    <Compile Include="_Incomplete\ThreadedVirtualSensorProducer.cs" />
+    <Compile Include="Utility\BluetoothHelper.cs" />
+    <Compile Include="Math\AccelerationTime.cs" />
+    <Compile Include="Important\Calibration.cs" />
+    <Compile Include="ProducerData\Inertial\CorrectedInertialSensor.cs" />
+    <Compile Include="Filters\ContiniousFilter.cs" />
+    <Compile Include="Important\IdealSensor.cs" />
+    <Compile Include="Math\MathFunctions.cs" />
+    <Compile Include="Important\Merge.cs" />
+    <Compile Include="Utility\BodyPosQuatData.cs" />
+    <Compile Include="Utility\ActionsPerSecond.cs" />
+    <Compile Include="Enums\SensorLocation.cs" />
+    <Compile Include="Logger\FileLogger.cs" />
+    <Compile Include="ProducerData\IData.cs" />
+    <Compile Include="Logger\ILogger.cs" />
+    <Compile Include="UserControls\WPFUserControls\KinectQuatViewer.cs" />
+    <Compile Include="UserControls\WPFUserControls\QuaternionArrow.xaml.cs">
+      <DependentUpon>QuaternionArrow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\WPFUserControls\SkeletonBodyViewer.xaml.cs">
+      <DependentUpon>SkeletonBodyViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\ExtensionMethods.cs" />
+    <Compile Include="ProducerData\Kinect\KinectData.cs" />
+    <Compile Include="Enums\SensorType.cs" />
+    <Compile Include="Utility\UISensorData.cs" />
+    <Compile Include="ProducerData\Virtual\VirtualSensorProducer.cs" />
+    <Compile Include="ProducerData\Virtual\VirtualSensorData.cs" />
+    <Compile Include="ProducerData\Kinect\KinectProducer.cs" />
+    <Compile Include="Utility\CircularBuffer.cs" />
+    <Compile Include="ProducerData\IDataProducer.cs" />
+    <Compile Include="ProducerData\Inertial\InertialSensorData.cs" />
+    <Compile Include="ProducerData\Inertial\RawInertialSensorProducer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControls\WPFUserControls\SkeletonQuatBodyViewer.xaml.cs">
+      <DependentUpon>SkeletonQuatBodyViewer.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\WPFUserControls\window1.xaml.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="UserControls\WPFUserControls\IMUQuatViewer.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="UserControls\WPFUserControls\QuaternionArrow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\WPFUserControls\SkeletonBodyViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\WPFUserControls\SkeletonQuatBodyViewer.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\WPFUserControls\window1.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="sample_images\IMUBACK.JPG" />
+    <Resource Include="sample_images\IMUFRONT.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelixToolkit.Wpf\HelixToolkit.Wpf.csproj">
+      <Project>{3f3b4548-a9db-4874-86f7-e7c4fec8a351}</Project>
+      <Name>HelixToolkit.Wpf</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="UserControls\WinFromUserContorls\SensorGrapher.resx">
+      <DependentUpon>SensorGrapher.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

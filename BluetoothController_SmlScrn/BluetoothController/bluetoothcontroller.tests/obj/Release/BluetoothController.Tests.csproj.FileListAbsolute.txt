@@ -1,0 +1,17 @@
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\obj\Release\BluetoothController.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\BluetoothController.Tests.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\BluetoothController.Tests.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\BluetoothController.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\ControllerTester.exe
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\InTheHand.Net.Personal.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\Microsoft.Kinect.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\HelixToolkit.Wpf.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\BluetoothController.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\ControllerTester.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\InTheHand.Net.Personal.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\Microsoft.Kinect.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\HelixToolkit.Wpf.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\bin\Release\HelixToolkit.Wpf.xml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\obj\Release\BluetoothController.Tests.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\obj\Release\BluetoothController.Tests.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\BluetoothController.Tests\obj\Release\BluetoothController.Tests.pdb

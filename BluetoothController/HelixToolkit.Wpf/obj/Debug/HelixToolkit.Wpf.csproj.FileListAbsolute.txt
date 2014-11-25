@@ -1,0 +1,128 @@
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\bin\Debug\HelixToolkit.dll
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\bin\Debug\HelixToolkit.pdb
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Resources\TeapotGeometry.baml
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.g.cs
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.g.cs
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.g.cs
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.g.cs
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.cache
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.lref
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.baml
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.baml
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.baml
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.baml
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.g.resources
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.Properties.Resources.resources
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csproj.GenerateResource.Cache
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.dll
+C:\Users\John\Downloads\helixtoolkit-4ec382608506\helixtoolkit_4ec382608506\Source\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Resources\TeapotGeometry.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.lref
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.g.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.Properties.Resources.resources
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csproj.GenerateResource.Cache
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.dll
+C:\Users\John\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Resources\TeapotGeometry.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.lref
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.g.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.Properties.Resources.resources
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csproj.GenerateResource.Cache
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.dll
+C:\Users\User\Dropbox\2014 Summer Intern Shared Folder\Visual Studio\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.pdb
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Resources\TeapotGeometry.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.cache
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.lref
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.g.resources
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.Properties.Resources.resources
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csproj.GenerateResource.Cache
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.dll
+C:\Users\guineapig\Desktop\New Copy Of Program\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.pdb
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Resources\TeapotGeometry.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.cache
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.lref
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.g.resources
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.Properties.Resources.resources
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csproj.GenerateResource.Cache
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.dll
+C:\Users\guineapig\Desktop\KINECT_IMU_Calibrator_v1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\bin\Debug\HelixToolkit.Wpf.pdb
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csprojResolveAssemblyReference.cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Resources\TeapotGeometry.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf_MarkupCompile.lref
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\InterlacedView3D.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\AnaglyphView3D.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\StereoView3D.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Controls\Stereo\WiggleView3D.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\Themes\Generic.baml
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.g.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.Properties.Resources.resources
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.csproj.GenerateResource.Cache
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.dll
+C:\Users\EE113D\Desktop\KINECT_IMU_Calibrator_beta1\BluetoothController\HelixToolkit.Wpf\obj\Debug\HelixToolkit.Wpf.pdb
